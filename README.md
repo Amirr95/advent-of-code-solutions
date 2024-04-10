@@ -1,0 +1,1 @@
+My solutions for <a href="https://adventofcode.com/">Advent of Code</a> puzzles.
